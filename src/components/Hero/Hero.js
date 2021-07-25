@@ -26,7 +26,11 @@ const Hero = (props) => {
           <SectionText>Full Stack Developer</SectionText>
           <Button>
             <a
-              style={{ textDecoration: "none", color: "white" }}
+              style={{
+                textDecoration: "none",
+                color: "white",
+                textAlign: "center",
+              }}
               href="/pdfs/CV_AMITENDU_MALLICK.pdf"
               download
             >
