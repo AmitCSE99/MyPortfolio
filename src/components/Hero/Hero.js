@@ -20,16 +20,21 @@ const Hero = (props) => {
             Amitendu Mallick
           </SectionTitle>
           <SectionText>
-            3rd Year BTech Student from Techno International Newtown, Kolkata.
+            4th Year BTech Student from Techno International Newtown, Kolkata.
           </SectionText>
-          <SectionText>Intern in Outshade Digital Media</SectionText>
+          <SectionText>Interned in Outshade Digital Media</SectionText>
           <SectionText>Full Stack Developer</SectionText>
           <Button>
             <a
               style={{
                 textDecoration: "none",
+                width: "100%",
+                height: "100%",
                 color: "white",
                 textAlign: "center",
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
               }}
               href="/pdfs/CV_AMITENDU_MALLICK.pdf"
               download
