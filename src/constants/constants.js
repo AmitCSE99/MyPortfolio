@@ -6,7 +6,7 @@ export const projects = [
     image: "/images/Pixly_Blogs.png",
     tags: ["MongoDB", "Express", "Vue", "Node"],
     source: "https://github.com/MayukhSamadderComp2000/pixly-fronend",
-    visit: "https://github.com/MayukhSamadderComp2000/pixly-fronend",
+    visit: "https://pixly-blogs.netlify.app",
     id: 0,
   },
   {

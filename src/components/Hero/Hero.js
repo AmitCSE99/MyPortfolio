@@ -16,8 +16,8 @@ const Hero = (props) => {
       <Section row nopadding>
         <LeftSection>
           <SectionTitle main center>
-            Hi, This is <br />
-            Amitendu Mallick
+            {/* Hi, This is <br /> */}
+            AMITENDU MALLICK
           </SectionTitle>
           <SectionText>
             4th Year BTech Student from Techno International Newtown, Kolkata.
