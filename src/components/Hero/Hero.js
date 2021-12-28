@@ -23,6 +23,7 @@ const Hero = (props) => {
             4th Year BTech Student from Techno International Newtown, Kolkata.
           </SectionText>
           <SectionText>Interned in Outshade Digital Media</SectionText>
+          <SectionText>Currently Trainee at Nagarro, Gurugram</SectionText>
           <SectionText>Full Stack Developer</SectionText>
           <Button>
             <a

@@ -1,5 +1,13 @@
 import React from "react";
-import { DiFirebase, DiReact, DiCodepen } from "react-icons/di";
+import {
+  DiFirebase,
+  DiCode,
+  DiReact,
+  DiCodepen,
+  DiDatabase,
+  DiJava,
+  DiNodejs,
+} from "react-icons/di";
 import {
   Section,
   SectionDivider,
@@ -19,8 +27,8 @@ const Technologies = () => (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world and
-      also coded in several Programming languages
+      I've worked with a range of technologies in web development and also coded
+      in several Programming languages
     </SectionText>
     <List>
       <ListItem>
@@ -37,25 +45,37 @@ const Technologies = () => (
       </ListItem>
       <ListItem>
         <picture>
-          <DiFirebase size="3rem" />
+          <DiCode size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.js, Express.js and Databases like MySQL and MongoDB
+            Node.js, Express.js, Django, Django Rest Framework
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <picture>
-          <DiCodepen size="3rem" />
+          <DiDatabase size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Databases</ListTitle>
+          <ListParagraph>
+            Experience with <br />
+            MySQL, SQLite, MongoDB
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <picture>
+          <DiJava size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>Programming Languages</ListTitle>
           <ListParagraph>
             Experience with <br />
-            C, C++ and Java
+            C, C++, Java and Python
           </ListParagraph>
         </ListContainer>
       </ListItem>
