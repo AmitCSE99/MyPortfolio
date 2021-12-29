@@ -101,6 +101,7 @@ export const TagList = styled.ul`
   flex-wrap: wrap;
   padding: 2rem;
   padding-left: 1rem;
+  padding-right: 1rem;
 `;
 export const Tag = styled.li`
   color: #d8bfbf;
