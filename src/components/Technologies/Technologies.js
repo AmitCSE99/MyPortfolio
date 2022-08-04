@@ -39,7 +39,7 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            HTML, CSS, JavaScript, React.js, Vue.js, Next.js
+            HTML, CSS, JavaScript, TypeScript, React.js, Angular.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -51,7 +51,7 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node.js, Express.js, Django, Django Rest Framework
+            Spring, Spring Boot, Microservices ,Node.js, Express.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -75,7 +75,7 @@ const Technologies = () => (
           <ListTitle>Programming Languages</ListTitle>
           <ListParagraph>
             Experience with <br />
-            C, C++, Java and Python
+            C, C++ and Java
           </ListParagraph>
         </ListContainer>
       </ListItem>

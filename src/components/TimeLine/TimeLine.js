@@ -65,9 +65,10 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionTitle>Web Development Journey</SectionTitle>
+      <SectionTitle>Software Development Journey</SectionTitle>
       <SectionText>
-        Here is a timeline of my learning of Web Development in College!
+        Here is a timeline of my learning of Software Development journey
+        starting from College to Present!
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

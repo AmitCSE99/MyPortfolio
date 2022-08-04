@@ -42,11 +42,18 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2019, text: "Started Learning HTML, CSS and JavaScript" },
   {
     year: 2020,
-    text: "Started learning React for Frontend and Node for Backend",
+    text: "Started Building Full Stack Projects using MERN",
   },
   { year: 2021, text: "Got my first Internship as a Full Stack Developer" },
+  {
+    year: 2022,
+    text: "Got Placed as a Trainee at Nagarro",
+  },
+  {
+    year: 2022,
+    text: "Trained on Java Technology for Backend Development",
+  },
   { year: 2022, text: "Started working in Nagarro as an Associate Engineer" },
 ];

@@ -20,11 +20,13 @@ const Hero = (props) => {
             AMITENDU MALLICK
           </SectionTitle>
           <SectionText>
-            4th Year BTech Student from Techno International Newtown, Kolkata.
+            Associate Software Engineer at Nagarro, Gurugram
           </SectionText>
-          <SectionText>Interned in Outshade Digital Media</SectionText>
-          <SectionText>Currently Trainee at Nagarro, Gurugram</SectionText>
-          <SectionText>Full Stack Developer</SectionText>
+          <SectionText>
+            BTech Graduate in Computer Science and Technology from Techno
+            International Newtown
+          </SectionText>
+          <SectionText>Software Developer</SectionText>
           <Button>
             <a
               style={{
@@ -37,10 +39,10 @@ const Hero = (props) => {
                 alignItems: "center",
                 justifyContent: "center",
               }}
-              href="/pdfs/CV_AMITENDU_MALLICK.pdf"
-              download
+              href="/pdfs/Amitendu_Mallick_CV.pdf"
+              target="blank"
             >
-              My Resume
+              View My Resume
             </a>
           </Button>
         </LeftSection>
